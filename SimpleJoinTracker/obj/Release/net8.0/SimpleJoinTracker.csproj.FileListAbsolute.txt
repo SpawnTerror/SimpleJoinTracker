@@ -1,0 +1,12 @@
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.csproj.AssemblyReference.cache
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.AssemblyInfoInputs.cache
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.AssemblyInfo.cs
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\bin\Release\net8.0\SimpleJoinTracker.deps.json
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\bin\Release\net8.0\SimpleJoinTracker.dll
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\bin\Release\net8.0\SimpleJoinTracker.pdb
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.dll
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\refint\SimpleJoinTracker.dll
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\SimpleJoinTracker.pdb
+D:\Programming\GitHub\SimpleJoinTracker\SimpleJoinTracker\obj\Release\net8.0\ref\SimpleJoinTracker.dll

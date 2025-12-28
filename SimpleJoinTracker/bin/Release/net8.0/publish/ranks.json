@@ -1,0 +1,212 @@
+[
+  {
+    "MinCount": 3000,
+    "Title": "Autostrafer",
+    "Color": "{white}",
+    "IsRainbow": true
+  },
+  {
+    "MinCount": 2500,
+    "Title": "Hyperion God",
+    "Color": "{darkred}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 2200,
+    "Title": "Movement Legend Elite",
+    "Color": "{gold}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 2000,
+    "Title": "Movement Legend III",
+    "Color": "{gold}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 1800,
+    "Title": "Movement Legend II",
+    "Color": "{gold}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 1600,
+    "Title": "Movement Legend I",
+    "Color": "{gold}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 1450,
+    "Title": "Strafe God Elite",
+    "Color": "{red}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 1300,
+    "Title": "Strafe God III",
+    "Color": "{red}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 1150,
+    "Title": "Strafe God II",
+    "Color": "{red}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 1000,
+    "Title": "Strafe God I",
+    "Color": "{red}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 900,
+    "Title": "Tech Hunter Elite",
+    "Color": "{purple}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 800,
+    "Title": "Tech Hunter III",
+    "Color": "{purple}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 700,
+    "Title": "Tech Hunter II",
+    "Color": "{purple}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 600,
+    "Title": "Tech Hunter I",
+    "Color": "{purple}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 500,
+    "Title": "Bunnyhopper Elite",
+    "Color": "{lime}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 450,
+    "Title": "Bunnyhopper III",
+    "Color": "{lime}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 400,
+    "Title": "Bunnyhopper II",
+    "Color": "{lime}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 350,
+    "Title": "Bunnyhopper I",
+    "Color": "{lime}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 310,
+    "Title": "LJ Grinder Elite",
+    "Color": "{olive}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 280,
+    "Title": "LJ Grinder III",
+    "Color": "{olive}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 250,
+    "Title": "LJ Grinder II",
+    "Color": "{olive}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 220,
+    "Title": "LJ Grinder I",
+    "Color": "{olive}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 190,
+    "Title": "Pre-Strafe Bot Elite",
+    "Color": "{blue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 170,
+    "Title": "Pre-Strafe Bot III",
+    "Color": "{blue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 150,
+    "Title": "Pre-Strafe Bot II",
+    "Color": "{blue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 130,
+    "Title": "Pre-Strafe Bot I",
+    "Color": "{blue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 110,
+    "Title": "Checkpoint Spammer Elite",
+    "Color": "{lightblue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 95,
+    "Title": "Checkpoint Spammer III",
+    "Color": "{lightblue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 80,
+    "Title": "Checkpoint Spammer II",
+    "Color": "{lightblue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 65,
+    "Title": "Checkpoint Spammer I",
+    "Color": "{lightblue}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 50,
+    "Title": "Spacebar Warrior Elite",
+    "Color": "{white}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 40,
+    "Title": "Spacebar Warrior III",
+    "Color": "{white}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 30,
+    "Title": "Spacebar Warrior II",
+    "Color": "{white}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 20,
+    "Title": "Spacebar Warrior I",
+    "Color": "{white}",
+    "IsRainbow": false
+  },
+  {
+    "MinCount": 0,
+    "Title": "KZ Nub",
+    "Color": "{grey}",
+    "IsRainbow": false
+  }
+]
