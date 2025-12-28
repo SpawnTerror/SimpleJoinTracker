@@ -23,7 +23,8 @@ Give your loyal players the recognition they deserve with custom rank titles tha
 
 ## 📸 Preview
 
-*(Upload a screenshot of your chat message here to show off the ranks!)*
+![204C93~1](https://github.com/user-attachments/assets/989c4d19-3c7e-4345-a209-ea28fb8ee0e4)
+
 
 > **[HYPERION KZ]** {red}Strafe God {red}SpawnTerror {default}connected for the {lime}1002nd {default}time!
 
@@ -51,7 +52,7 @@ Change the global prefix shown before every message.
   "ServerNamePrefix": "{lime}HYPERION KZ |"
 }
 ```
-### 2. 'ranks.json'
+### 2. `ranks.json`
 You can create unlimited ranks! The plugin automatically sorts them.
 
 MinCount: How many connections needed.
