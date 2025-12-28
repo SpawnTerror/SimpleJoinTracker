@@ -50,6 +50,7 @@ Change the global prefix shown before every message.
 {
   "ServerNamePrefix": "{lime}HYPERION KZ |"
 }
+```
 2. ranks.json
 You can create unlimited ranks! The plugin automatically sorts them.
 
@@ -61,7 +62,7 @@ Color: The color of the rank name.
 
 IsRainbow: Set to true for the rainbow text effect.
 
-JSON
+```JSON
 [
   {
     "MinCount": 0,
@@ -82,6 +83,7 @@ JSON
     "IsRainbow": true
   }
 ]
+```
 🎨 Supported Colors
 You can use these tags in your config files:
 
