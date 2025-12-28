@@ -51,7 +51,7 @@ Change the global prefix shown before every message.
   "ServerNamePrefix": "{lime}HYPERION KZ |"
 }
 ```
-2. ranks.json
+### 2. 'ranks.json'
 You can create unlimited ranks! The plugin automatically sorts them.
 
 MinCount: How many connections needed.
@@ -60,7 +60,7 @@ Title: The rank name.
 
 Color: The color of the rank name.
 
-IsRainbow: Set to true for the rainbow text effect.
+IsRainbow: Set to true for the rainbow text effect (sorta, it is simply every letter has different colour)
 
 ```JSON
 [
@@ -84,12 +84,13 @@ IsRainbow: Set to true for the rainbow text effect.
   }
 ]
 ```
-🎨 Supported Colors
+
+## 🎨 Supported Colors
 You can use these tags in your config files:
 
 {default}, {white}, {darkred}, {green}, {lime}, {red}, {blue}, {gold}, {yellow}, {silver}, {grey}, {purple}, {olive}, {magenta}, {lightred}, {lightblue}.
 
-🤝 Credits
+## 🤝 Credits
 Author: SpawnTerror
 
 Framework: CounterStrikeSharp
