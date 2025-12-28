@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleJoinTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b37f000a67f15f295ae2a6764d8be24535cf61")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleJoinTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleJoinTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
